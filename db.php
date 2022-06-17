@@ -3,5 +3,7 @@
     $database = "escuela";
     $username = "root";
     $password = "123456";
-    // Create connection
+    
+    $materias = array('matematicas', 'lenguaje', 'ciencas sociales');
+
 ?>

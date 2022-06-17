@@ -17,9 +17,6 @@
         <li class="nav-item">
             <a class="nav-link" href="#">Kinal</a>
         </li>
-        <li class="nav-item" style="justify-content: flex-end;" >
-            <a class="nav-link" href="#">Link</a>
-        </li>
     </ul>
 </div>
 <div class="d-flex flex-column p-3 bg-dark" 
