@@ -1,5 +1,5 @@
 <?php
-    include 'templates/header.php'
+    include './../templates/header.php'
 ?>
 
 <div style="margin-top:40xp;margin-left:10%">
@@ -125,6 +125,6 @@
 
 
 <?php
-    include 'templates/foother.php'
+    include './../templates/foother.php'
 ?>
 

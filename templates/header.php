@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- <link rel="stylesheet" href="./styles/styles.css"> -->
     <title>Document</title>
-    <link rel="stylesheet" href="./css/bootstrap.css" />
-    <link rel="stylesheet" href="./css/materias.css" />
-    <link rel="stylesheet" href="./css/materia_detalle.css" />
+    <link rel="stylesheet" href="../css/bootstrap.css" />
+    <link rel="stylesheet" href="../css/materias.css" />
+    <link rel="stylesheet" href="../css/materia_detalle.css" />
 </head>
 <body>
 <div class="navbar-light bg-light"

@@ -1,5 +1,5 @@
 <?php
-include 'templates/header.php'
+include './../templates/header.php'
 ?>
 
     <div class="div-container-detalle" >
@@ -176,5 +176,5 @@ include 'templates/header.php'
 
 
 <?php
-include 'templates/foother.php'
+include './../templates/foother.php'
 ?>
