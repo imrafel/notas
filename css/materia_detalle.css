@@ -1,0 +1,16 @@
+.div-container-detalle {
+    margin-top: 4%;
+    margin-left:15%;
+    width: 80%;
+    height:100%;
+}
+
+.search-fields {
+    margin-bottom: 20px;
+    display:flex; 
+    justify-content:center;
+}
+
+.search-fields div {
+    margin-left:20px
+}

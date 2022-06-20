@@ -6,6 +6,8 @@
     <!-- <link rel="stylesheet" href="./styles/styles.css"> -->
     <title>Document</title>
     <link rel="stylesheet" href="./css/bootstrap.css" />
+    <link rel="stylesheet" href="./css/materias.css" />
+    <link rel="stylesheet" href="./css/materia_detalle.css" />
 </head>
 <body>
 <div class="navbar-light bg-light"
@@ -30,12 +32,12 @@
         ">
     <ul class="nav nav-pills flex-column mb-auto">
       <li class="nav-item">
-        <a href="#" class="nav-link link-light">
+        <a href="homepage.php" class="nav-link link-light">
           Inicio
         </a>
       </li>
       <li>
-        <a href="#" class="nav-link link-light">
+        <a href="materias.php" class="nav-link link-light">
           Materias
         </a>
       </li>

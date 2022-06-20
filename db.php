@@ -4,6 +4,5 @@
     $username = "root";
     $password = "123456";
     
-    $materias = array('matematicas', 'lenguaje', 'ciencas sociales');
 
 ?>

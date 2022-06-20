@@ -11,6 +11,7 @@
         <div class="inputs" style="margin-top:20px;margin-left:20px">
         <input type="text" placeholder="Nombre del alumno">
         <input type="text" placeholder="carne">
+        <button>Buscar</button>
         </div>
     </div>
     <div class="" style="margin:4% 5% 0 5%">
@@ -19,7 +20,7 @@
     <tr>
       <th scope="col">No</th>
       <th scope="col">Nombre</th>
-      <th scope="col">Apellid</th>
+      <th scope="col">Apellido</th>
       <th scope="col">Carne</th>
       <th scope="col">Codigo Tecnico</th>
       <th scope="col">Bimestre</th>
